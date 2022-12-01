@@ -1,7 +1,26 @@
 *{margin: o;}
+
 h1{text-align: center;
-color: blue;
+color:black;
 }
-.wrapper{}
-#imagen1{width: 50px;
-height: 50px;}
+
+body{background-color: rgba(128, 128, 128, 0.175);}
+
+.wrapper{display:inline-block;
+justify-content: center;
+margin-right: 5px;
+background-color: white;}
+
+.secondwrapper{margin-left: 459px ;
+}
+
+.Thirdwrapper{margin-left: 387px;}
+
+#imagen1{width: 450px;
+height: 400px;}
+
+#Imagen2{width: 450px;
+    height: 450px;}
+
+#Imagen3{width: 450px;
+height: 350px;}
