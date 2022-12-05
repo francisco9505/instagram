@@ -6,21 +6,35 @@ color:black;
 
 body{background-color: rgba(128, 128, 128, 0.175);}
 
-.wrapper{display:inline-block;
+#header{display: flex;
+    text-align: ;
+    flex-direction: column;
 justify-content: center;
-margin-right: 5px;
-background-color: white;}
+height: 30px;
+width:450px ;
+background-color: white;
+margin-left: 535px;}
 
-.secondwrapper{margin-left: 459px ;
+#footer{display: flex;
+    flex-direction: column;
+    
+background-color: white;
+    margin-left: 535px ;
+    margin-bottom: 30px;
+    width: 450px;
+    height: 40px;
 }
 
-.Thirdwrapper{margin-left: 387px;}
+
 
 #imagen1{width: 450px;
-height: 400px;}
+height: 400px;
+margin-left: 535px;}
 
 #Imagen2{width: 450px;
-    height: 450px;}
+    height: 450px;
+    margin-left: 535px;}
 
 #Imagen3{width: 450px;
-height: 350px;}
+height: 350px;
+margin-left: 535px;}
