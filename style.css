@@ -6,8 +6,8 @@ color:black;
 
 body{background-color: rgba(128, 128, 128, 0.175);}
 
-#header{display: flex;
-    text-align: ;
+.header{display: flex;
+    text-align:;
     flex-direction: column;
 justify-content: center;
 height: 30px;
@@ -15,9 +15,8 @@ width:450px ;
 background-color: white;
 margin-left: 535px;}
 
-#footer{display: flex;
-    flex-direction: column;
-    
+.footer{display: flex;
+   
 background-color: white;
     margin-left: 535px ;
     margin-bottom: 30px;
@@ -27,8 +26,8 @@ background-color: white;
 
 
 
-#imagen1{width: 450px;
-height: 400px;
+.imagen{;
+
 margin-left: 535px;}
 
 #Imagen2{width: 450px;
