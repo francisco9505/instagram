@@ -16,7 +16,8 @@ background-color: white;
 margin-left: 535px;}
 
 .footer{display: flex;
-   
+flex-direction: column;
+justify-content: center;
 background-color: white;
     margin-left: 535px ;
     margin-bottom: 30px;
