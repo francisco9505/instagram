@@ -8,8 +8,8 @@ body{background-color: rgba(128, 128, 128, 0.175);}
 
 .header{display: flex;
     text-align:;
-    flex-direction: column;
-justify-content: center;
+
+justify-content: space-between;
 height: 30px;
 width:450px ;
 background-color: white;
@@ -31,10 +31,3 @@ background-color: white;
 
 margin-left: 535px;}
 
-#Imagen2{width: 450px;
-    height: 450px;
-    margin-left: 535px;}
-
-#Imagen3{width: 450px;
-height: 350px;
-margin-left: 535px;}
